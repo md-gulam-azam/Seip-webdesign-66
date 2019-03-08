@@ -1,0 +1,43 @@
+.div_one{
+    float: left;
+    height:200px;
+    width:20%;
+    background-color: #0000cc;
+}
+.div_two{
+    float: left;
+    height:200px;
+    width:80%;
+    background-color: #009900;
+}
+.div_three{
+    float: left;
+    height: 50px;
+    width: 100%;
+    background-color: darkred;
+}
+.div_four{
+    float: left;
+    height:600px;
+    width: 18%;
+    background-color: black;
+}
+.div_five{
+    float: left;
+    height:600px;
+    width: 64%;
+    background-color: greenyellow;
+}
+.div_six{
+    float: left;
+    height: 40px;
+    width: 100%;
+    background-color: crimson;
+}
+.div_six{
+    float: left;
+    height: 40px;
+    width: 100%;
+    background-color: red;
+}
+    

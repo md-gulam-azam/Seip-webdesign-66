@@ -1,0 +1,16 @@
+ p{
+                color:rgb(90,2,9);
+                font-size: 60px;
+            }
+             .box_one{
+                    height:200px;
+                    width: 20%;
+                    background-color: #000000;
+                    float: left;
+            }
+            .box_two{
+                height:200px;
+                width: 80%;
+                background-color: #00ff99;
+                float:left;
+            }

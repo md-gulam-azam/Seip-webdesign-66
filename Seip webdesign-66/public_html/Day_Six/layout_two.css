@@ -1,0 +1,60 @@
+.div_one{
+    height: 50px;
+    width: 100%;
+    background-color:#ff3965 ;
+    float: left;
+}
+.div_two{
+    height: 200px;
+    width: 25%;
+    background-color: #666600;
+    float: left;
+}
+.div_three{
+    height: 200px;
+    width: 50%;
+    background-color: burlywood;
+    float: left;
+}
+.div_three_one{
+    height: 100px;
+    width: 100%;
+    background-color: #009900;
+    float: left;
+}
+.div_three_two{
+    height: 100px;
+    width: 100%;
+    background-color: #000000;
+    float: left;
+}
+.div_four{
+    height: 600px;
+    width: 80%;
+    background-color: #330033;
+    float: left;
+}
+.div_five{
+    height: 600px;
+    width:20%;
+    background-color: #006666;
+    float: left;
+}
+.div_five_one{
+    height: 200px;
+    width: 100%;
+    background-color: #00ff33;
+    float: left;
+}
+.div_five_two{
+    height: 200px;
+    width: 100%;
+    background-color: #ff6600;
+    float: left;
+}
+.div_six{
+    height: 40px;
+    width: 100%;
+    background-color: #ff00cc;
+    float: left;
+}
